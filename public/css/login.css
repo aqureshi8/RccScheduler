@@ -1,0 +1,81 @@
+td {
+	vertical-align: top;
+}
+
+h3 {
+	margin-top: 0px;
+	padding-top: 0px;
+	color: #1a4292;
+}
+
+.accountinfo {
+	font-size: 13px;
+	height: 28px;
+}
+
+.header {
+	border-top: 7px solid #bb232d;
+}
+
+.banner {
+	margin-top: 2px;
+	border-top: 3px solid #bb242d;
+	height: 150px;
+}
+
+.banner img {
+	margin-top: 15px;
+	width: 170px;
+	height: 133px;
+}
+
+.sidebar {
+	width: 204px;
+	height: 100%;
+	color: #1a4292;
+	font-size: 12px;
+}
+
+.navItem {
+	padding-left: 5px;
+	text-decoration: none;
+	color: #1a4292;
+
+}
+
+a:hover {
+	text-decoration: underline;
+}
+
+.site {
+	margin: auto;
+	width: 960px;
+}
+
+.main {
+	padding-top: 12px;
+	font-family: "Lucida Grande","Lucida Sans Unicode",Arial,sans-serif;
+	line-height: 1.5;
+}
+
+.issue {
+	margin-top: 10px;
+	margin-left: 5px;
+	color: #bb232d;
+	font-weight: bold;
+}
+
+.issue:hover {
+	background-color: lightgrey;
+}
+
+.sideHeading{
+	color: #bb232d;
+}
+
+.selectedItem {
+	background-color: #bb232d;
+	color: white;
+	font-weight: bold;
+	padding-right: 5px;
+}
